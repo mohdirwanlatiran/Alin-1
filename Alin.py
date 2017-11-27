@@ -21,7 +21,7 @@ helo=""
 
 KAC=[cl]
 mid = cl.getProfile().mid
-Bots = [mid,"MID KAMU"]
+Bots = [mid,"MID aku"]
 admsa = "MID KAMU"
 admin = "MID KAMU"
 
